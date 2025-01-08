@@ -1,3 +1,7 @@
 C:\Users\eugenio.gigante\AppData\Local\Programs\Python\Python38\Scripts\autopytoexe.exe
 
 pip install auto-py-to-exe
+
+
+in powershell
+pyinstaller --onefile -w 'EncoderDesktopStreamingHTTP.py'
